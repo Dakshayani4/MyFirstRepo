@@ -1,8 +1,10 @@
 
-Hello world!
+hello world!
 
-How have you been??
+Hey, How have you been??
 
 I have not staged second edit.
 Staged and commited my third edit.
 Both removed in this version!
+
+Hello again!!
