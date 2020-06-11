@@ -3,4 +3,6 @@ Hello world!
 
 How have you been??
 
-third edit
+I have not staged second edit.
+Staged and commited my third edit.
+Both removed in this version!
